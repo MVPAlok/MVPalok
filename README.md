@@ -1,5 +1,11 @@
 # 💫 About Me:
-🛰 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻<br>→ Building 3D models and interactive web projects using Spline, React, and Vite (like “Sync and Explore” travel dashboard).<br>→ Exploring design + tech synergy in UI/UX, motion graphics, and cybersecurity tools.<br><br>🧬 𝗜’𝗺 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻<br>→ Creative 3D design or front-end projects.<br>→ Educational platforms, product design, or visual storytelling using web tech and animation.<br><br>🤝 𝗜’𝗺 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗵𝗲𝗹𝗽 𝘄𝗶𝘁𝗵<br>→ Advanced JavaScript animations, best practices in design systems, and navigating open source contributions.<br>→ AI-driven 3D content generation tools or Sora-like video pipelines.
+I’m a B.Tech student who works at the intersection of UI/UX design, 3D design, and interactive web development. I don’t approach design as just visuals — I focus on how users interact with a product and how design decisions affect usability and clarity.
+
+I’ve worked on real-world projects like Sync and Explore, an AI-powered travel planning platform, where I handled UI layout, visual consistency, and user flow across dashboards and components. Alongside this, I completed a Graphic Design Internship at Mentorsity, contributing to live brand projects such as Giftbazaar and Synchedelic, where I created marketing creatives and brand-aligned visuals under real deadlines and feedback cycles.
+
+My workflow is iterative and feedback-driven. I prefer building, testing, and refining rather than over-polishing concepts without validation. I’m comfortable working within constraints, following brand guidelines, and adapting designs based on real requirements.
+
+I’m currently focused on growing as a UI/UX, 3D, or product-focused designer, strengthening both my design thinking and technical execution through continuous hands-on work.
 
 
 ## 🌐 Socials:
