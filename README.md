@@ -55,19 +55,18 @@ I’m a **Product Designer & Frontend Developer** working at the intersection of
 
 ## 📊 Analytics & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MVPalok&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MVPalok&theme=radical&hide_border=false" width="48%" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVPalok&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=MVPalok&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repos" />
-</div>
-<br>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Dev Quote" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MVPalok&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MVPalok&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVPalok&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ---
 
@@ -75,6 +74,7 @@ I’m a **Product Designer & Frontend Developer** working at the intersection of
 
 <div align="center">
   <a href="https://linkedin.com/in/alok-yadav-6ba852295"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://contra.com/alok_yadav_itseicge"><img src="https://img.shields.io/badge/Contra-black?style=for-the-badge&logo=contra&logoColor=white" alt="Contra"/></a>
   <a href="https://x.com/mvpalok"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
   <a href="https://instagram.com/mvp_alok_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:alokyadav5275757@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -82,5 +82,5 @@ I’m a **Product Designer & Frontend Developer** working at the intersection of
 
 <p align="center">
   <br>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MVPalok&icon=0&color=0" alt="Profile Views"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MVPalok&label=Profile%20Views&color=00C7B7&style=flat" alt="Profile Views" />
 </p>
